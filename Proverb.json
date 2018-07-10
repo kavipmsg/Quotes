@@ -1,0 +1,3834 @@
+﻿{
+  "Proverbs": [
+    {
+      "Id": 1,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அகத்தின் அழகு முகத்தில் தெரியும்."
+    },
+    {
+      "Id": 2,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அகல இருந்தால் நிகள உறவு, கிட்டவந்தால் முட்டப் பகை."
+    },
+    {
+      "Id": 3,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அகல உழுகிறதை விட ஆழ உழு."
+    },
+    {
+      "Id": 4,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அகல் வட்டம் பகல் மழை."
+    },
+    {
+      "Id": 5,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அசைந்து தின்கிறது யானை, அசையாமல் தின்கிறது வீடு."
+    },
+    {
+      "Id": 6,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அச்சமில்லாதவன் அம்பலம் ஏறுவான்."
+    },
+    {
+      "Id": 7,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அச்சாணி இல்லாத தேர் முச்சாணும் ஓடாது."
+    },
+    {
+      "Id": 8,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அஞ்சிலே வளையாதது ஐம்பதிலே வளையுமா?"
+    },
+    {
+      "Id": 9,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடக்கமே பெண்ணுக்கு அழகு."
+    },
+    {
+      "Id": 10,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடக்கம் உடையார் அறிஞர், அடங்காதவர் கல்லார்."
+    },
+    {
+      "Id": 11,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடாது செய்தவன் படாது படுவான்."
+    },
+    {
+      "Id": 12,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடி நாக்கிலே நஞ்சும் நுனி நாக்கில் அமுதமும்."
+    },
+    {
+      "Id": 13,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடி மேல் அடி அடித்தால் அம்மியும் நகரும்."
+    },
+    {
+      "Id": 14,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடி உதவுவது போல் அண்ணன் தம்பி உதவ மாட்டார்கள்."
+    },
+    {
+      "Id": 15,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடியாத மாடு படியாது."
+    },
+    {
+      "Id": 16,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அடுத்த வீட்டுக்காரனுக்கு அதிகாரம் வந்தால் அண்டை வீட்டுக்காரனுக்கு இரைச்சல் இலாபம்."
+    },
+    {
+      "Id": 17,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அணில் கொம்பிலும், ஆமை கிணற்றிலும்."
+    },
+    {
+      "Id": 18,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அணை கடந்த வெள்ளம் அழுதாலும் வாராது."
+    },
+    {
+      "Id": 19,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அத்திப் பழத்தைப் பிட்டுப்பார்த்தால் அத்தனையும் புழு."
+    },
+    {
+      "Id": 20,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அந்தி மழை அழுதாலும் விடாது."
+    },
+    {
+      "Id": 21,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அப்பன் அருமை மாண்டால் தெரியும்."
+    },
+    {
+      "Id": 22,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அப்பியாச வித்தைக்கு அழிவில்லை."
+    },
+    {
+      "Id": 23,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அயலூரானுக்கு ஆற்றோரம் பயம், உள்ளூரானுக்கு மரத்திடியில் பயம்."
+    },
+    {
+      "Id": 24,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அரசன் இல்லாத நாடு அச்சில்லாத தேர்."
+    },
+    {
+      "Id": 25,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அரிசி ஆழாக்கானாலும் அடுப்புக் கட்டி மூன்று வேண்டும்."
+    },
+    {
+      "Id": 26,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அருமையற்ற வீட்டில் எருமையும் குடியிருக்காது."
+    },
+    {
+      "Id": 27,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அழிந்த கொல்லையில் குதிரை மேய்ந்தாலென்ன, கழுதை மேய்ந்தாலென்ன?"
+    },
+    {
+      "Id": 28,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அழுகிற ஆணையும், சிரிக்கிற பெண்ணையும் நம்பக்கூடாது."
+    },
+    {
+      "Id": 29,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அழுத பிள்ளைதான் பால் குடிக்கும்"
+    },
+    {
+      "Id": 30,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அழுதாலும் பிள்ளை அவளே பெற வேண்டும்."
+    },
+    {
+      "Id": 31,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அளக்கிற நாழி அகவிலை அறியுமா?"
+    },
+    {
+      "Id": 32,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அளவுக்கு மிஞ்சினால் அமிர்தமும் நஞ்சு."
+    },
+    {
+      "Id": 33,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறச் செட்டு முழு நட்டம்."
+    },
+    {
+      "Id": 34,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அள்ளிக் கொடுத்தால் சும்மா, அளந்து கொடுத்தால் கடன்."
+    },
+    {
+      "Id": 35,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறக்கப் பறக்க பாடுபட்டாலும் படுக்கப் பாயில்லை."
+    },
+    {
+      "Id": 36,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறப்படித்தவன் அங்காடி போனால், விற்கவும் மாட்டான் கொள்ளவும் மாட்டான்."
+    },
+    {
+      "Id": 37,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறமுறுக்கினால் அற்றும் போகும்."
+    },
+    {
+      "Id": 38,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறிந்தறிந்து செய்கிற பாவத்தை அழுதழுது தொலைக்கவேண்டும்."
+    },
+    {
+      "Id": 39,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறிய அறியக் கெடுவார் உண்டா?"
+    },
+    {
+      "Id": 40,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறிவில்லார் சிநேகம் அதிக உத்தமம்."
+    },
+    {
+      "Id": 41,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறிவீனர் தமக்கு ஆயிரம் உரைக்கினும் அவம்."
+    },
+    {
+      "Id": 42,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறிவீன இடத்தில் புத்தி கேளாதே."
+    },
+    {
+      "Id": 43,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறிவு இல்லார்தமக்கு ஆண்மையுமில்லை."
+    },
+    {
+      "Id": 44,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறிவுடையாரை அரசனும் விரும்புவான்."
+    },
+    {
+      "Id": 45,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறுபத்து நாலடிக் கம்பத்திலேறி ஆடினாலும், அடியில் இறங்கித்தான் தியாகம் வாங்கவேண்டும்."
+    },
+    {
+      "Id": 46,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அறுப்புக் காலத்தில் எலிக்கு ஐந்து பெண்சாதி."
+    },
+    {
+      "Id": 47,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அற்ப அறிவு அல்லற் கிடம்."
+    },
+    {
+      "Id": 48,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அன்பு இருந்தால் ஆகாததும் ஆகும்."
+    },
+    {
+      "Id": 49,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அன்று எழுதியவன் அழித்து எழுதுவானா?"
+    },
+    {
+      "Id": 50,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அன்று குடிக்கத் தண்ணீர் இல்லை ஆனைமேல் அம்பாரி வேணுமாம்."
+    },
+    {
+      "Id": 51,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அன்னைக்கு உதவாதவன் யாருக்கும் ஆகான்."
+    },
+    {
+      "Id": 52,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "அன்னம் இட்டவர் வீட்டில் கன்னம் இடலாமா?"
+    },
+    {
+      "Id": 53,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆக்கப் பொறுத்தவர் ஆறப் பொறுப்பதில்லை."
+    },
+    {
+      "Id": 54,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆடையில்லாதவன் அரை மனிதன்."
+    },
+    {
+      "Id": 55,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆத்திரக்காரனுக்குப் புத்தி மட்டு."
+    },
+    {
+      "Id": 56,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆய்ந்து பாராதான் காரியந் தான் சாந்துயரந் தரும்."
+    },
+    {
+      "Id": 57,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆரால் கேடு, வாயால் கேடு."
+    },
+    {
+      "Id": 58,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆரியக் கூத்தாடினாலும் காரியத்தில் கண்ணாயிரு."
+    },
+    {
+      "Id": 59,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆலும் வேலும் பல்லுக்குறுதி, நாலும் இரண்டும் சொல்லுக்குறுதி."
+    },
+    {
+      "Id": 60,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆலை இல்லாத ஊரிலே இலுப்பைபபூ சக்கரை."
+    },
+    {
+      "Id": 61,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆழமறியாமல் காலை இடாதே."
+    },
+    {
+      "Id": 62,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆவும் தென்னையும் ஐந்து வருடத்தில் பலம் தரும்."
+    },
+    {
+      "Id": 63,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆளனில்லாத மங்கைக்கு அழகு பாழ்."
+    },
+    {
+      "Id": 64,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆள் கொஞ்சமானாலும் ஆயுதம் மிடுக்கு."
+    },
+    {
+      "Id": 65,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆறிலுஞ் சாவு நூறிலுஞ் சாவு."
+    },
+    {
+      "Id": 66,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆறின கஞ்சி பழங் கஞ்சி."
+    },
+    {
+      "Id": 67,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆறு கடக்கிறவரையில் அண்ணன் தம்பி, ஆறு கடந்தால் நீ யார் நான் யார்?"
+    },
+    {
+      "Id": 68,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆற்றிலே போட்டாலும் அளந்து போடு."
+    },
+    {
+      "Id": 69,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆற்றில் ஒரு கால் சேற்றில் ஒரு கால்"
+    },
+    {
+      "Id": 70,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆறுகெட நாணல் இடு, ஊரு கெட நூலை விடு."
+    },
+    {
+      "Id": 71,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆறு போவதே போக்கு அரசன் சொல்வதே தீர்ப்பு."
+    },
+    {
+      "Id": 72,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆனை கறுத்தால் ஆயிரம் பொன்."
+    },
+    {
+      "Id": 73,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆனைக்கு ஒரு காலம் பூனைக்கு ஒரு காலம்."
+    },
+    {
+      "Id": 74,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆனைக்கும் அடிசறுக்கும்."
+    },
+    {
+      "Id": 75,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆனை படுத்தால் ஆள் மட்டம்."
+    },
+    {
+      "Id": 76,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஆனை வரும் பின்னே. மணி ஓசை வரும் முன்னே."
+    },
+    {
+      "Id": 77,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இக்கரை மாட்டுக்கு அக்கரை பச்சை."
+    },
+    {
+      "Id": 78,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இங்கே தலை காட்டுகிறான், அங்கே வால் காட்டுகிறான்."
+    },
+    {
+      "Id": 79,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இஞ்சி இலாபம் மஞ்சளில்."
+    },
+    {
+      "Id": 80,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இடம் கொடுத்தால் மடம் பிடுங்குவான்."
+    },
+    {
+      "Id": 81,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இட்ட உறவு எட்டு நாளைக்கு நக்கின உறவு நாலு நாலைக்கு."
+    },
+    {
+      "Id": 82,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இட்டுக் கெட்டார் எங்குமே இல்லை."
+    },
+    {
+      "Id": 83,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இட்டார் பெரியோர் இடாதார் இழி குலத்தோர்."
+    },
+    {
+      "Id": 84,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இமைக்குற்றம் கண்ணுக்குத் தெரியாது."
+    },
+    {
+      "Id": 85,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இரக்கப் போனாலும் சிறக்கப் போ."
+    },
+    {
+      "Id": 86,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இரண்டு ஓடத்தில் கால் வைக்காதே."
+    },
+    {
+      "Id": 87,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இரவற் சீலையை நம்பி இடுப்புக் கந்தையை எறியாதே."
+    },
+    {
+      "Id": 88,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இராகு திசையில் வாழ்ந்தவனும் இல்லை; இராச திசையில் கெட்டவணுமில்லை."
+    },
+    {
+      "Id": 89,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இராசா மகளானாலும் கொண்டனுக்கு பெண்டுதான்."
+    },
+    {
+      "Id": 90,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இரும்படிக்கும் இடத்தில் ஈக்கென்ன வேலை?"
+    },
+    {
+      "Id": 91,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இரும்பு பிடித்த கையும் சிரங்கு பிடித்த கையும் சும்மா இரா."
+    },
+    {
+      "Id": 92,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இராமனைப்போல் இராசா இருந்தால் அனுமானைப்போல் சேவகனும் இருப்பான்."
+    },
+    {
+      "Id": 93,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இருவர் நட்பு ஒருவர் பொறை."
+    },
+    {
+      "Id": 94,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இல்லாது பிறாவது அள்ளாது குறையாது."
+    },
+    {
+      "Id": 95,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இழவுக்கு வந்தவள் தாலி அறுப்பாளா?"
+    },
+    {
+      "Id": 96,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இழுக்குடைய பாட்டிற்கு இசை நன்று."
+    },
+    {
+      "Id": 97,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இளங்கன்று பயமறியாது."
+    },
+    {
+      "Id": 98,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இளமையில் கல்."
+    },
+    {
+      "Id": 99,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இளமையிற் கல்வி கல் மேல் எழுத்து."
+    },
+    {
+      "Id": 100,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இளமையில் கல்வி சிலையில் எழுத்து."
+    },
+    {
+      "Id": 101,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இளமையில் சோம்பல் முதுமையில் வருத்தம்."
+    },
+    {
+      "Id": 102,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இறங்கு பொழுதில் மருந்து குடி."
+    },
+    {
+      "Id": 103,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இறுகினால் களி , இளகினால் கூழ்."
+    },
+    {
+      "Id": 104,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இறைக்க ஊறும் மணற்கேணி, ஈயப் பெருகும் பெருஞ்செல்வம்."
+    },
+    {
+      "Id": 105,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இறைக்கிற ஊற்றே சுரக்கும்."
+    },
+    {
+      "Id": 106,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இனம் இனத்தோடே, வெள்ளாடு தன்னோடே."
+    },
+    {
+      "Id": 107,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "இன்றைக்கு இலை அறுத்தவன் நாளைக்கு குலை அறுப்பான்."
+    },
+    {
+      "Id": 108,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஈக்கு விடம் தலையில், தேளுக்கு விடம் கொடுக்கில்."
+    },
+    {
+      "Id": 109,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஈட்டி எட்டு முழம் பாயும் பணம் பாதாளம் மட்டும் பாயும்."
+    },
+    {
+      "Id": 110,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஈயார் தேட்டைத் தீயார் கொள்வர்."
+    },
+    {
+      "Id": 111,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஈர நாவிற்கு எலும்பில்லை."
+    },
+    {
+      "Id": 112,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உடல் உள்ள வரையில் கடல் கொள்ளாத கவலை."
+    },
+    {
+      "Id": 113,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உடம்பு போனால் போகிறது கை வந்தால் போதும்."
+    },
+    {
+      "Id": 114,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உடைமையும் வறுமையும் ஒரு வழி நில்லா."
+    },
+    {
+      "Id": 115,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உடையவன் பாரா வேலை ஒரு முழங் கட்டை."
+    },
+    {
+      "Id": 116,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உடைத்த சங்கு ஊத்துப் பறியுமா?"
+    },
+    {
+      "Id": 117,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உண்ட உடம்பிற்கு உறுதி, உழுத புலத்தில் நெல்லு."
+    },
+    {
+      "Id": 118,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உட்கார்ந்தால் அல்லவா படுக்க வேண்டும்."
+    },
+    {
+      "Id": 119,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உண்ட வீட்டுக்கு ரெண்டகம் நினைக்காதே."
+    },
+    {
+      "Id": 120,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உண்டிக்கு அழகு விருந்தோடு உண்டல்."
+    },
+    {
+      "Id": 121,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உண்டு கொழுத்தால் நண்டு வலையில் இராது."
+    },
+    {
+      "Id": 122,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உண்ணாச் சொத்து மண்ணாய்ப் போகும்."
+    },
+    {
+      "Id": 123,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உண்ணீர் உண்ணீரென்றே ஊட்டாதார் தம் மனையில் உண்ணாமை கோடி பெறும்."
+    },
+    {
+      "Id": 124,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உதட்டில் உறவு உள்ளத்தில் பகை."
+    },
+    {
+      "Id": 125,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உத்திராடத்தில் ஒரு பிள்ளையும், ஊர் வாரியில் ஒரு நிலமும்."
+    },
+    {
+      "Id": 126,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உப்பிட்டவரை உள்ளளவும் நினை."
+    },
+    {
+      "Id": 127,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உயர உயரப் பறந்தாலும் ஊர்க்குருவி பருந்தாகுமா?"
+    },
+    {
+      "Id": 128,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உயிர் காப்பான் தோழன்."
+    },
+    {
+      "Id": 129,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உரலில் அகப்பட்டது உலக்கைக்கு தப்புமா?"
+    },
+    {
+      "Id": 130,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உருட்டும் புரட்டும் ஒடுக்கும் சிறப்பை."
+    },
+    {
+      "Id": 131,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உலோபிக்கு இரட்டை செலவு."
+    },
+    {
+      "Id": 132,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உழுகிற நாளில் ஊருக்குப் போனால், அறுக்கிற நாளில் ஆள் தேவையில்லை."
+    },
+    {
+      "Id": 133,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உழுதவன் கணக்குப் பார்த்தால் உழக்கேனும் மிஞ்சாது."
+    },
+    {
+      "Id": 134,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உளவு இல்லாமல் களவு இல்லை."
+    },
+    {
+      "Id": 135,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உள்ளது சொல்ல ஊரு மல்ல நல்லது சொல்ல நாடுமல்ல"
+    },
+    {
+      "Id": 136,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உள்ளது போகாது இல்லது வாராது."
+    },
+    {
+      "Id": 137,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உள்ளம் தீயெரிய உதடு பழஞ் சொரிய."
+    },
+    {
+      "Id": 138,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உறியிலே வெண்ணெய் இருக்க நெய்க்கலைவானேன்?"
+    },
+    {
+      "Id": 139,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "உறவு போகாமல் கெட்டது கடன் கேட்காமல் கெட்டது."
+    },
+    {
+      "Id": 140,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊசியைக் காந்தம் இழுக்கும் உத்தமனைச் சிநேகம் இழுக்கும்."
+    },
+    {
+      "Id": 141,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊணுக்கு முந்துவான் வேலைக்குப் பிந்துவான்."
+    },
+    {
+      "Id": 142,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊண் அற்றபோது உடலற்றது."
+    },
+    {
+      "Id": 143,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊர் உண்டு பிச்சைக்கு, குளம் உண்டு தண்ணீருக்கு."
+    },
+    {
+      "Id": 144,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊர் வாயை மூட உலைமுடி இல்லை."
+    },
+    {
+      "Id": 145,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊர் இரண்டு பட்டால் கூத்தாடிக்குக் கொண்டாட்டம்"
+    },
+    {
+      "Id": 146,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊருடன் ஒட்டி வாழ்."
+    },
+    {
+      "Id": 147,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊருடன் பகைக்கின் வேறுடன் கெடும்."
+    },
+    {
+      "Id": 148,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஊழி பெயரினும் ஊக்கமது கைவிடேல்."
+    },
+    {
+      "Id": 149,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எங்கே புகையுண்டோ அங்கே நெருப்பு உண்டு."
+    },
+    {
+      "Id": 150,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எச்சிற் கையால் காக்கை ஓட்டாதவன் பிச்சை கொடுப்பானா?"
+    },
+    {
+      "Id": 151,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எடுக்கிறது பிச்சை ஏறுகிறது பல்லாக்கு."
+    },
+    {
+      "Id": 152,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எட்டாக் கனிக்குக் கொட்டாவி விடாதே."
+    },
+    {
+      "Id": 153,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எட்டி பழுத்தென்ன, ஈயார் வாழ்த்தென்ன?"
+    },
+    {
+      "Id": 154,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எண் இல்லாதவர் கண் இல்லாதவர்,"
+    },
+    {
+      "Id": 155,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எழுத்து இல்லாதவர் கழுத்து இல்லாதவர்."
+    },
+    {
+      "Id": 156,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எண்சாண் உடம்பிற்கு சிரசே பிரதானம்."
+    },
+    {
+      "Id": 157,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எண்ணிச் செய்கிறவன் கெட்டி, எண்ணாமல் செய்கிறவன் மட்டி."
+    },
+    {
+      "Id": 158,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எண்ணிச்செய்வது செட்டு, எண்ணாமல் செய்வது வேளாண்மை."
+    },
+    {
+      "Id": 159,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எண்ணை முந்துதோ திரி முந்துதோ?"
+    },
+    {
+      "Id": 160,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எண்ணும் எழுத்தும் கண்ணெனத் தகும்."
+    },
+    {
+      "Id": 161,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எதார்த்தவாதி வெகுசன விரோதி."
+    },
+    {
+      "Id": 162,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எதிர்த்தவன் ஏழை என்றால் கோபம் சண்டாளம்."
+    },
+    {
+      "Id": 163,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எதை அடக்காவிட்டாலும் நாக்கை அடக்கவேண்டும்."
+    },
+    {
+      "Id": 164,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எத்தனை புடம் போட்டாலும் இரும்பு பசும்பொன் ஆகுமா?"
+    },
+    {
+      "Id": 165,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எத்தால் வாழலாம், ஒத்தால் வாழலாம்."
+    },
+    {
+      "Id": 166,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எந்நிலத்து வித்திடுனும் காஞ்சிரங்காய் தெங்காகா."
+    },
+    {
+      "Id": 167,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எய்தவன் இருக்க அம்பை நோவானேன் ?"
+    },
+    {
+      "Id": 168,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எரிகிறதைப் பிடுங்கினால் கொதிக்கிறது அடங்கும்."
+    },
+    {
+      "Id": 169,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எரிகிற விளக்கானாலும் தூண்டுகோல் வேண்டும்."
+    },
+    {
+      "Id": 170,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எரிகிற வீட்டில் பிடுங்கினது இலாபம்."
+    },
+    {
+      "Id": 171,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எரியும் கொள்ளிகளில் எந்தக் கொள்ளி நல்ல கொள்ளி?"
+    },
+    {
+      "Id": 172,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எருமை வாங்கும் முன்னே நெய் விலை கூறாதே."
+    },
+    {
+      "Id": 173,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எருது நோய் காக்கைக்குத் தெரியுமா?"
+    },
+    {
+      "Id": 174,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எலி அழுதால் பூனை விடுமா?"
+    },
+    {
+      "Id": 175,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எலி இருக்கிற இடத்தில் பாம்பு இருக்கும்."
+    },
+    {
+      "Id": 176,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எலிக்குத் திண்டாட்டம் பூனைக்குக் கொண்டாட்டம்"
+    },
+    {
+      "Id": 177,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எலி வளையானாலும் தனி வலை வேண்டும்."
+    },
+    {
+      "Id": 178,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எலும்பு கடிக்கிற நாய் இரும்பைக் கடிக்குமா?"
+    },
+    {
+      "Id": 179,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எல்லோரும் பல்லக்கு ஏறினால் பல்லக்கைத் தூக்குகிறவர் யார்?"
+    },
+    {
+      "Id": 180,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எழுதாக் கடனுக்கு அழுதால் தீருமா?"
+    },
+    {
+      "Id": 181,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எழுதியவன் ஏட்டைக் கெடுத்தான், படித்தவன் பாட்டைக் கொடுத்தான்."
+    },
+    {
+      "Id": 182,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எழுதி வழங்கான் வாழ்க்கை கழுதை புரண்ட களம்."
+    },
+    {
+      "Id": 183,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எழுத்தறச் சொன்னாலும் பெண் புத்தி பின் புத்தி."
+    },
+    {
+      "Id": 184,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எழுத்தறிவித்தவன் இறைவன் ஆவான்."
+    },
+    {
+      "Id": 185,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எளியவன் பெண்டாட்டி எல்லோருக்கும் மைத்துனி."
+    },
+    {
+      "Id": 186,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எளியாரை வலியார் அடித்தால் வலியாரை தெய்வம் அடிக்கும்."
+    },
+    {
+      "Id": 187,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எள்ளூ என்கிறதற்கு முன்னே எண்ணெய் கொண்டு வருகிறான்."
+    },
+    {
+      "Id": 188,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எள்ளுக்கு ஏழு உழவு , கொள்ளுக்கு ஓர் உழவு."
+    },
+    {
+      "Id": 189,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எறும்பு ஊர கல்லுந் தேயும்."
+    },
+    {
+      "Id": 190,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "எறும்புந் தன் கையால் எண் சாண்."
+    },
+    {
+      "Id": 191,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏட்டுச் சுரைக்காய் கறிக்கு உதவாது."
+    },
+    {
+      "Id": 192,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏதென்று கேட்பாருமில்லை, எடுத்துப் பிடிப்பாருமில்லை."
+    },
+    {
+      "Id": 193,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏரி நிறைந்தால் கரை கசியும்."
+    },
+    {
+      "Id": 194,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏருழுகிறவன் இளப்பமானால், எருது மச்சான் முறை கொண்டாடும்."
+    },
+    {
+      "Id": 195,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏர் பிடித்தவன் என்ன செய்வான்? பானை பிடித்தவள் பாக்கியம்."
+    },
+    {
+      "Id": 196,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏவுகிறவனுக்கு வாய்ச்சொல், செய்கிறவனுக்குத் தலைச்சுமை."
+    },
+    {
+      "Id": 197,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏழை அழுத கண்ணீர் கூரிய வாளை ஓக்கும்."
+    },
+    {
+      "Id": 198,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏழைபேச்சு அம்பலம் ஏறாது."
+    },
+    {
+      "Id": 199,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஏறச் சொன்னால் எருது கோபம், இறங்கச் சொன்னால் நொண்டிக்குக் கோபம்."
+    },
+    {
+      "Id": 200,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஐங்காயம் இட்டு அரைத்துக் கரைத்தாலும் தன் நாற்றம் போகாதாம் பேய்ச்சுரைக்காய்க்கு."
+    },
+    {
+      "Id": 201,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஐந்திலே வளையாதது, ஐம்பதிலே வளையுமா?"
+    },
+    {
+      "Id": 202,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒட்டத்கூத்தன் பாட்டுக்கு இரட்டைத் தாழ்ப்பாள்."
+    },
+    {
+      "Id": 203,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓதிய மரம் தூணாமோ, ஒட்டாங் கிளிஞ்சல் காசாமோ?"
+    },
+    {
+      "Id": 204,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு காசு பேணின் இரு காசு தேறும்."
+    },
+    {
+      "Id": 205,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு குடம் பாலுக்கு ஒரு துளி விஷம்."
+    },
+    {
+      "Id": 206,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு கை தட்டினால் ஓசை எழும்புமா?"
+    },
+    {
+      "Id": 207,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு கை (அல்லது வெறுங்கை) முழம் போடுமா?"
+    },
+    {
+      "Id": 208,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு நன்றி செய்தவரை உள்ள அளவும் நினை."
+    },
+    {
+      "Id": 209,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு நாள் கூத்துக்கு மீசையை எடுக்கவா?"
+    },
+    {
+      "Id": 210,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு பானைச் சோற்றுக்கு ஒரு சோறு பதம்."
+    },
+    {
+      "Id": 211,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒரு பொய்யை மறைக்க ஒன்பது பொய்."
+    },
+    {
+      "Id": 212,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒருமைப் பாடில்லாத குடி ஒருமிக்கக் கெடும்."
+    },
+    {
+      "Id": 213,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒருவர் அறிந்தால் இரகசியம், இருவர் அறிந்தால் அம்பலம்."
+    },
+    {
+      "Id": 214,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒருவனாய்ப் பிறந்தால் தனிமை, இருவராய்ப் பிறந்தால் பகைமை."
+    },
+    {
+      "Id": 215,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒழுக்கம் உயர்குலத்தின் நன்று."
+    },
+    {
+      "Id": 216,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒளிக்கப் போயும் தலையாரி வீட்டிலா!"
+    },
+    {
+      "Id": 217,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒன்று பட்டால் உண்டு வாழ்வு."
+    },
+    {
+      "Id": 218,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓசை பெறும் வெண்கலம் ஓசை பெறா மட்கலம்."
+    },
+    {
+      "Id": 219,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓடிப்போனவனுக்கு ஒன்பதாம் இடத்தில் குரு, அகப்பட்டவனுக்கு அட்டமத்திலே சனி."
+    },
+    {
+      "Id": 220,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓடும் நாயைக் கண்டால் துரத்தும் நாய்க்கு இளக்காரம்."
+    },
+    {
+      "Id": 221,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓடுகிறவனைக் கண்டால் துரத்துகிறவனுக்கு இலேசு."
+    },
+    {
+      "Id": 222,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓட்டைக் கப்பலுக்கு ஒன்பது மாலுமி."
+    },
+    {
+      "Id": 223,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓதாதார்க்கு இல்லை உணர்வொடு ஒழுக்கம்."
+    },
+    {
+      "Id": 224,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓதுவார் எல்லாம் உழுவான் தலைக்கடையிலே."
+    },
+    {
+      "Id": 225,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓர் ஊருக்கு ஒரு வழியா? ஒன்பது வழி."
+    },
+    {
+      "Id": 226,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஓர் ஊர்ப்பேச்சு ஓர் ஊருக்கு ஏச்சு."
+    },
+    {
+      "Id": 227,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "ஒளவை சொல்லுக்கு அச்சம் இல்லை."
+    },
+    {
+      "Id": 228,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கங்கையில் மூழ்கினாலும் காக்க்கை அன்னம் ஆகுமா?"
+    },
+    {
+      "Id": 229,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கசடறக் கல்லார்க்கு இசை உறல் இல்லை."
+    },
+    {
+      "Id": 230,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடலுக்குக் கரை போடுவார் உண்டா?"
+    },
+    {
+      "Id": 231,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடலைத் தாண்ட ஆசையுண்டு கால்வாயைத் தாண்டக் கால் இல்லை."
+    },
+    {
+      "Id": 232,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடல் கொதித்தால் விளாவ நீர் ஏது?"
+    },
+    {
+      "Id": 233,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடல் திடலாகும், திடல் கடலாகும்."
+    },
+    {
+      "Id": 234,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடல் மீனுக்கு நீச்சுப் பழக்க வேண்டுமா?"
+    },
+    {
+      "Id": 235,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடவுளை நம்பினோர் கைவிடப் படார்."
+    },
+    {
+      "Id": 236,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடன் வாங்கிக் கான் கொடுத்தவனும் கெட்டான்; மரம் ஏறிக் கைவிட்டனும் கெட்டான்."
+    },
+    {
+      "Id": 237,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடன் வாங்கியும் பட்டினி, கல்யாணம் பண்ணியும் சந்நியாசி."
+    },
+    {
+      "Id": 238,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடித்த சொல்லினும் கனிந்த சொல்லே நன்மை."
+    },
+    {
+      "Id": 239,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடுகத்தனை நெருப்பானாலும் போரைக் கொளுத்திவிடும்."
+    },
+    {
+      "Id": 240,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடுகு சிறுத்தாலும் காரம் போகுமா?"
+    },
+    {
+      "Id": 241,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடுகு போன இடம் ஆராய்வார், பூசுணைக்காய் போன இடம் தெரியாது."
+    },
+    {
+      "Id": 242,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடுங்காற்று மழை கூட்டும் கடுஞ் சிநேகம் பகை கூட்டும்."
+    },
+    {
+      "Id": 243,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடுஞ் சொல் தயவைக் கெடுக்கும்."
+    },
+    {
+      "Id": 244,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கடைந்த மோரிலே குடைந்து வெண்ணெய் எடுக்கிறது."
+    },
+    {
+      "Id": 245,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கட்டக் கரிய இல்லாமற் போனாலும் பேர் பொன்னம்மாள்."
+    },
+    {
+      "Id": 246,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கட்டிக்கொடுத்த சோறும் கற்றுக்கொடுத்த சொல்லும் எத்தனை நாள் நிற்கும்."
+    },
+    {
+      "Id": 247,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கட்டினவனுக்கு ஒரு வீடானால் கட்டாதவனுக்கு பல வீடு."
+    },
+    {
+      "Id": 248,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கட்டின வீட்டுக்கு எட்டு வக்கனை."
+    },
+    {
+      "Id": 249,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கணக்கன் கணக்கறிவான் தன் கண்க்கைத் தான் அறியான்."
+    },
+    {
+      "Id": 250,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கணக்கன் கணக்கைத் தின்னாவிடில், கணக்கனை கணக்கு தின்று விடும்."
+    },
+    {
+      "Id": 251,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கணக்கைப் பார்த்தால் பிணக்கு வரும்."
+    },
+    {
+      "Id": 252,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண் கண்டது கை செய்யும்."
+    },
+    {
+      "Id": 253,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண் கெட்ட பின்னர் சூரிய நமஸ்காரம்."
+    },
+    {
+      "Id": 254,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண் குருடு ஆனாலும் நித்திரையில் குறையுமா?"
+    },
+    {
+      "Id": 255,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண்டதே காட்சி கொண்டதே கோலம்."
+    },
+    {
+      "Id": 256,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண்டது சொன்னால் கொண்டிடும் பகை."
+    },
+    {
+      "Id": 257,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண்டால் ஒரு பேச்சு, காணாவிட்டால் ஒரு பேச்சு."
+    },
+    {
+      "Id": 258,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண்ணிலே குத்தின விரலைக் கண்டிப்பார் உண்டோ?"
+    },
+    {
+      "Id": 259,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கண்ணிற் பட்டால் கரிக்குமா, புருவத்திற் பட்டால் கரிக்குமா?"
+    },
+    {
+      "Id": 260,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கதிரவன் சிலரை காயேன் என்குமோ?"
+    },
+    {
+      "Id": 261,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கப்பல் ஏறிப் பட்ட கடன் கொட்டை நூற்றா விடியும்."
+    },
+    {
+      "Id": 262,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கப்பற்காரன் பெண்டாட்டி தொப்பைக்காரி, கப்பல் உடைந்தால் பிச்சைக்காரி."
+    },
+    {
+      "Id": 263,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கப்பற்காரன் வாழ்வு காற்று அடித்தால் போச்சு."
+    },
+    {
+      "Id": 264,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கரணம் தப்பினால் மரணம்."
+    },
+    {
+      "Id": 265,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கரிவிற்ற பணம் கறுப்பாய் இருக்குமா?"
+    },
+    {
+      "Id": 266,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கருமத்தை முடிக்கிறவன் கட்டத்தைப் பாரான்."
+    },
+    {
+      "Id": 267,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கரும்பு கசக்கிறது வாய்க் குற்றம்"
+    },
+    {
+      "Id": 268,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கரும்பு விரும்ப அது வேம்பாயிற்று."
+    },
+    {
+      "Id": 269,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கரும்பு ருசி என்று வேரோடு பிடுங்கலாமா?"
+    },
+    {
+      "Id": 270,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கரைப்பார் கரைத்தால் கல்லும் கரையும்."
+    },
+    {
+      "Id": 271,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கலகம் பிறந்தால் நியாயம் பிறக்கும்."
+    },
+    {
+      "Id": 272,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்லடிச் சித்தன் போனவழி, காடுமேடெல்லாம் தவிடுபொடி."
+    },
+    {
+      "Id": 273,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்லாடம் படித்தவனோடு மல் ஆடாதே."
+    },
+    {
+      "Id": 274,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்லாதவரே கண்ணில்லாதவர்."
+    },
+    {
+      "Id": 275,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்லாதார் செல்வத்திலும் கற்றார் வறுமை நலம்."
+    },
+    {
+      "Id": 276,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்வி அழகே அழகு."
+    },
+    {
+      "Id": 277,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்வி இல்லாச் செல்வம் கற்பில்லா அழகு."
+    },
+    {
+      "Id": 278,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்விக்கு இருவர், களவுக் கொருவர்."
+    },
+    {
+      "Id": 279,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கல்விக்கு அழகு கசடர மொழிதல்."
+    },
+    {
+      "Id": 280,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கவலை உடையோர்க்குக் கண்ணுறக்கம் வராது."
+    },
+    {
+      "Id": 281,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கழுதைக்குத் தெரியுமா கற்பூர வாசனை?"
+    },
+    {
+      "Id": 282,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "களை பிடுங்காப் பயிர் காற்பயிர்."
+    },
+    {
+      "Id": 283,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கள் விற்றுக் கலப்பணம் சம்பாதிப்பதைவிடக் கற்பூரம் விற்றுக் காற்பணம் சம்பாதிப்பது மேல்."
+    },
+    {
+      "Id": 284,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கள்ள மனம் துள்ளும்."
+    },
+    {
+      "Id": 285,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கள்ளனும் தோட்டக்காரனும் ஒன்று கூடினால் விடியும் மட்டும் திருடலாம்."
+    },
+    {
+      "Id": 286,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கள்ளம் பெரிதோ? காப்பு பெரிதோ!"
+    },
+    {
+      "Id": 287,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கள்ளிக்கு முள்வேலி இடுவானேன்!"
+    },
+    {
+      "Id": 288,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கள்ளைக் குடித்தால் உள்ளதைச் சொல்லுவான்."
+    },
+    {
+      "Id": 289,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கறையான் புற்று பாம்புக்கு உதவுகிறது."
+    },
+    {
+      "Id": 290,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கற்றது கைம்மண்ணளவு கல்லாதது உலகளவு."
+    },
+    {
+      "Id": 291,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கற்றோர்க்குச் சென்ற இடமெல்லாஞ் சிறப்பு."
+    },
+    {
+      "Id": 292,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கனவில் கண்ட பணம் செலவிற்கு உதவுமா?"
+    },
+    {
+      "Id": 293,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கனிந்த பழம் தானே விழும்."
+    },
+    {
+      "Id": 294,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கற்கையில் கல்வி கசப்பு, கற்றபின் அதுவே இனிப்பு."
+    },
+    {
+      "Id": 295,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கற்பில்லாத அழகு, வாசனை இல்லாத பூ."
+    },
+    {
+      "Id": 296,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கற்றோர்க்குச் சென்ற இடமெல்லாம் சிறப்பு"
+    },
+    {
+      "Id": 297,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காசுக்கு ஒரு குதிரையும் வேண்டும், காற்றைப் போலப் பறக்கவும் வேண்டும்."
+    },
+    {
+      "Id": 298,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காடு காத்தவனும் கச்சேரி காத்தவனும் பலன் அடைவான்."
+    },
+    {
+      "Id": 299,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காட்டுக்கு எறித்த நிலாவும் கானலுக்குப் பெய்த மழையும்."
+    },
+    {
+      "Id": 300,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காட்டு வாழை வந்தால் வீட்டு வாழ்வு போகும்."
+    },
+    {
+      "Id": 301,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காட்டை வெட்டிச் சாய்த்தவனுக்குக் கம்பு பிடுங்கப் பயமா?"
+    },
+    {
+      "Id": 302,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காண ஒரு தரம் கும்பிட ஒரு தரமா?"
+    },
+    {
+      "Id": 303,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காணி ஆசை கோடி கேடு."
+    },
+    {
+      "Id": 304,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காணிக்குச் சோம்பல் கோடிக்கு வருத்தம்"
+    },
+    {
+      "Id": 305,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காற்ற ஊசியும் வாராது காணுங் கடைவழிக்கே."
+    },
+    {
+      "Id": 306,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காப்பு சொல்லும் கை மெலிவை."
+    },
+    {
+      "Id": 307,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காமாலைக் கண்ணுக்குக் கண்டதெல்லாம் மஞ்சள் நிறம்."
+    },
+    {
+      "Id": 308,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காய்த்த மரம் கல் அடிபடும்."
+    },
+    {
+      "Id": 309,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காய்ந்தும் கெடுத்தது, பெய்தும் கெடுத்தது."
+    },
+    {
+      "Id": 310,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காரியமாகும் வரையில் கழுதையையும் காலைப்பிடி."
+    },
+    {
+      "Id": 311,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காரியம் பெரிதோ வீரியம் பெரிதோ?"
+    },
+    {
+      "Id": 312,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கார்த்திகை பின் மழையும் இல்லை, கர்ணனுக்குப்பின் கொடையும் இல்லை"
+    },
+    {
+      "Id": 313,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காலம் செய்கிறது ஞாலம் செய்யாது."
+    },
+    {
+      "Id": 314,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காலம் போம் வார்த்தை நிற்கும், கப்பல் போம் துறை நிற்கும்."
+    },
+    {
+      "Id": 315,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காலுக்குதக்க செருப்பும்,கூலிக்குத் தக்க உழைப்பும்."
+    },
+    {
+      "Id": 316,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காலளவே ஆகுமாம் கப்பலின் ஓட்டம், நூலளவே ஆகுமாநுண்சீலை."
+    },
+    {
+      "Id": 317,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காவடிப் பாரம் சுமக்கிறவனுக்குத் தெரியும்."
+    },
+    {
+      "Id": 318,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காற்றில்லாமல் தூசி பறக்குமா?"
+    },
+    {
+      "Id": 319,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காற்று உள்ளபோதே தூற்றிக்கொள்."
+    },
+    {
+      "Id": 320,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "காற்றுக்கு எதிர்லே துப்பினால் முகத்தில் விழும்."
+    },
+    {
+      "Id": 321,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கிட்டாதாயின் வெட்டென மற."
+    },
+    {
+      "Id": 322,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கிணற்றுக்குத் தப்பித் தீயிலே பாய்ந்தான்."
+    },
+    {
+      "Id": 323,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கிணற்றுத் தவளைக்கு நாட்டு வளப்பம் ஏன்?"
+    },
+    {
+      "Id": 324,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கீர்த்தியால் பசி தீருமா?"
+    },
+    {
+      "Id": 325,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கீறி ஆற்றினால் புண் ஆறும்."
+    },
+    {
+      "Id": 326,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குங்குமம் சுமந்த கழுதை மணம் அறியுமா?"
+    },
+    {
+      "Id": 327,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குசவனுக்கு ஆறுமாதம் தடிகாரனுக்கு அரை நாழிகை."
+    },
+    {
+      "Id": 328,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குடல் காய்ந்தால் குதிரையும் வைக்கோல் தின்னும்."
+    },
+    {
+      "Id": 329,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குடி, சூது, விபசாரம் குடியைக் கெடுக்கும்."
+    },
+    {
+      "Id": 330,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குடி வைத்த வீட்டிலே கொள்ளி வைக்கலாமா?"
+    },
+    {
+      "Id": 331,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குட்டுப் பட்டாலும் மோதிரக்கையால் குட்டுப்படவேண்டும்."
+    },
+    {
+      "Id": 332,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குணத்தை மாற்றக் குருவில்லை."
+    },
+    {
+      "Id": 333,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குணம் இல்லா வித்தை எல்லாம் அவித்தை."
+    },
+    {
+      "Id": 334,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குணம் பெரிதேயன்றிக் குலம் பெரியதன்று."
+    },
+    {
+      "Id": 335,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குதிரை இருப்பு அறியும், கொண்ட பெண்டாட்டி குணம் அறிவாள்."
+    },
+    {
+      "Id": 336,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குதிரை ஏறாமல் கெட்டது, கடன் கேளாமல் கெட்டது."
+    },
+    {
+      "Id": 337,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குதிரை குணமறிந்தல்லவோ தம்பிரான் கொம்பு கொடுக்கவில்லை."
+    },
+    {
+      "Id": 338,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குந்தி இருந்து தின்றால் குன்றும் மாளும்."
+    },
+    {
+      "Id": 339,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குப்பை உயரும் கோபுரம் தாழும்."
+    },
+    {
+      "Id": 340,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குருட்டுக் கண்ணுக்குக் குறுணி மையிட்டுமென்ன?"
+    },
+    {
+      "Id": 341,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குரு மொழி மறந்தோன் திருவழிந்து அழிவான்."
+    },
+    {
+      "Id": 342,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குரைக்கிற நாய் வேட்டை பிடிக்குமா?"
+    },
+    {
+      "Id": 343,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குரைக்கிற நாய் கடிக்காது."
+    },
+    {
+      "Id": 344,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குலம் குப்பையிலே, பணம் பந்தியிலே"
+    },
+    {
+      "Id": 345,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குலவித்தை கற்றுப் பாதி கல்லாமற் பாதி."
+    },
+    {
+      "Id": 346,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குல வழக்கம் இடை வழக்கும் கொஞ்சத்தில் தீராது."
+    },
+    {
+      "Id": 347,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குறைகுடம் தளும்பும், நிறைகுடம் தளும்பாது."
+    },
+    {
+      "Id": 348,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குற்றமுள்ள நெஞ்சு குறுகுறுக்கும்."
+    },
+    {
+      "Id": 349,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குற்றம் பார்க்கின் சுற்றம் இல்லை."
+    },
+    {
+      "Id": 350,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குழந்தையும் தெய்வமும் கொண்டாடின இடத்திலே."
+    },
+    {
+      "Id": 351,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குப்பையிற் கிடந்தாலும் குன்றிமணி நிறம் போகுமா?"
+    },
+    {
+      "Id": 352,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கும்பிடு கொடுத்துக் கும்பிடு வாங்கு."
+    },
+    {
+      "Id": 353,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குரங்கின் கைப் பூமாலை."
+    },
+    {
+      "Id": 354,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குரங்குக்குப் புத்திசொல்லித் தூக்கணாங்குருவி கூண்டு இழந்தது."
+    },
+    {
+      "Id": 355,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குரு இலார்க்கு வித்தையுமில்லை, முதல் இல்லார்க்கு ஊதியமில்லை."
+    },
+    {
+      "Id": 356,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "குனியக் குனியக் குட்டுவான், குனிந்தவன் நிமிர்ந்தால் குட்டினவன் ஓடுவான்."
+    },
+    {
+      "Id": 357,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கூடி வாழ்ந்தால் கோடி நன்மை."
+    },
+    {
+      "Id": 358,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கூரைமேலே சோறு போட்டால் ஆயிரம் காகம்."
+    },
+    {
+      "Id": 359,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கூலியைக் குறைக்காதே வேலையைக் கெடுக்காதே?"
+    },
+    {
+      "Id": 360,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கூழானாலும் குளித்துக் குடி; கந்தையானாலும் கசக்கிக் கட்டு."
+    },
+    {
+      "Id": 361,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கூழுக்கு மாங்காய் கொண்டாட்டம், குரங்குக்குத் தேங்காய் கொண்டாட்டம்."
+    },
+    {
+      "Id": 362,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கூழுக்கும் ஆசை, மீசைக்கும் ஆசை."
+    },
+    {
+      "Id": 363,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெடுக்கினும் கல்வி கேடுபடாது."
+    },
+    {
+      "Id": 364,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெடுமதி கண்ணுக்குத் தோன்றாது."
+    },
+    {
+      "Id": 365,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெடுவான் கேடு நினைப்பான்."
+    },
+    {
+      "Id": 366,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெட்டாலும் கெட்டி கெட்டியே, கிழிந்தாலும் பட்டு பட்டே."
+    },
+    {
+      "Id": 367,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெட்டிக்காரன் புளுகு எட்டு நாளையில் தெரியும்."
+    },
+    {
+      "Id": 368,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெட்டும் பட்டணம் சேர்."
+    },
+    {
+      "Id": 369,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெண்டையைப் போட்டு வராலை இழு."
+    },
+    {
+      "Id": 370,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெரடி கற்றவன் இடறி விழுந்தால் அதுவும் ஒரு வித்தை என்பான்."
+    },
+    {
+      "Id": 371,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கெலிப்பும் தோற்பும் ஒருவர் பங்கல்ல."
+    },
+    {
+      "Id": 372,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கேடு வரும் பின்னே, மதி கெட்டுவரும் முன்னே."
+    },
+    {
+      "Id": 373,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கேட்டதெல்லாம் நம்பாதே? நம்பியதெல்லாம் சொல்லாதே?"
+    },
+    {
+      "Id": 374,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கேளும் கிளையுங் கெட்டோர்க்கு இல்லை."
+    },
+    {
+      "Id": 375,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கேள்விப் பேச்சில் பாதிதான் நிசம்."
+    },
+    {
+      "Id": 376,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கைக்கு எட்டினது வாய்க்கு எட்டவில்லை."
+    },
+    {
+      "Id": 377,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கைக்கோளனுக்குக் காற்புண்ணும் நாய்க்குத் தலைப்புண்ணும் ஆறா."
+    },
+    {
+      "Id": 378,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கைப்புண்ணுக்குக் கண்ணாடி வேண்டுமா?"
+    },
+    {
+      "Id": 379,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கைப்பொருளற்றால் கட்டினவளும் பாராள்."
+    },
+    {
+      "Id": 380,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கைப்பொருள் தன்னின் மெய்ப்பொருள் கல்வி."
+    },
+    {
+      "Id": 381,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கையாளாத ஆயுதம் துருப்பிடிக்கும்."
+    },
+    {
+      "Id": 382,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கையிலே காசு வாயிலே தோசை."
+    },
+    {
+      "Id": 383,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கையில் உண்டானால் காத்திருப்பார் ஆயிரம் பேர்."
+    },
+    {
+      "Id": 384,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கையூன்றிக் கரணம் போடவேண்டும்."
+    },
+    {
+      "Id": 385,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கையில் பிடிப்பது துளசி மாலை, கக்கத்தில் இடுக்குவது கன்னக்கோலாம்."
+    },
+    {
+      "Id": 386,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொடிக்கு காய் கனமா?"
+    },
+    {
+      "Id": 387,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொடுக்கிறவனைக் கண்டால் வாங்குகிறவனுக்கு இளக்காரம்."
+    },
+    {
+      "Id": 388,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொடுங்கோல் அரசு நெடுங்காலம் நில்லாது."
+    },
+    {
+      "Id": 389,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொடுத்ததைக் கேட்டால் அடுத்ததாம் பகை."
+    },
+    {
+      "Id": 390,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொட்டினால் தேள், கொட்டாவிட்டால் பிள்ளைப் பூச்சியா?"
+    },
+    {
+      "Id": 391,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொண்டானும் கொடுத்தானும் ஒன்று,கலியாணத்தைக் கூட்டி வைத்தவன் வேறு."
+    },
+    {
+      "Id": 392,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொலைக்கு அஞ்சாதவன் பழிக்கு அஞ்சான்."
+    },
+    {
+      "Id": 393,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொல்லன் தெருவில் ஊசி விலைபோமா?"
+    },
+    {
+      "Id": 394,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொல்லைக் காட்டு நரி சலசலப்புக் அஞ்சுமா?"
+    },
+    {
+      "Id": 395,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொள்ளிக்கு எதிர்போனாலும், வெள்ளிக்கு எதிர்போகலாது."
+    },
+    {
+      "Id": 396,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கொற்றவன் தன்னிலும் கற்றவன் மிக்கோன்."
+    },
+    {
+      "Id": 397,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோள் சொல்பவனைக் கொடுந்தேள் என நினை."
+    },
+    {
+      "Id": 398,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோள் சொல்லும் வாய் காற்றுடன் நெருப்பு."
+    },
+    {
+      "Id": 399,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோணிக் கோடி கொடுப்பதிலும் கோணாமற் காணி கொடுப்பது நல்லது."
+    },
+    {
+      "Id": 400,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோத்திரமறிந்து பெண்ணைக்கொடு, பாத்திரமறிந்து பிச்சையிடு."
+    },
+    {
+      "Id": 401,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோபம் உள்ள இடத்தில் குணம் உண்டு."
+    },
+    {
+      "Id": 402,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோபம் சண்டாளம்."
+    },
+    {
+      "Id": 403,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோயிற் பூனை தேவர்க்கு அஞ்சுமா?"
+    },
+    {
+      "Id": 404,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோழி மிதித்துக் குஞ்சு முடம் ஆகுமா?"
+    },
+    {
+      "Id": 405,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோளுஞ் சொல்லி கும்பிடுவானேன்?"
+    },
+    {
+      "Id": 406,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோடானுகோடி கொடுப்பினும் தன்னுடைய நாக்கு கோடாமை கோடி பெறும்"
+    },
+    {
+      "Id": 407,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோடானுகோடி கொடுத்தாலும் நாவினால் தவறு சொல்லாதது கோடி பெறும்."
+    },
+    {
+      "Id": 408,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "கோடி கொடுப்பினும் குடில் பிறந்தார் தம்மோடு கூடுவதே கோடி பெறும்."
+    },
+    {
+      "Id": 409,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சட்டியில் இருந்தால் தான் அகப்பையில் வரும்."
+    },
+    {
+      "Id": 410,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சண்டிக் குதிரை நொண்டிச் சாரதி."
+    },
+    {
+      "Id": 411,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சத்தியமே வெல்லும், அசத்தியம் கொல்லும்."
+    },
+    {
+      "Id": 412,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சந்தியிலே அடித்ததற்குச் சாட்சியா?"
+    },
+    {
+      "Id": 413,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சபையிலே நக்கீரன் அரசிலே விற்சேரன்."
+    },
+    {
+      "Id": 414,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சம்பளம் இல்லாத சேவகனும், கோபமில்லாத எசமானும்."
+    },
+    {
+      "Id": 415,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சருகைக் கண்டு தணலஞ்சுமா?"
+    },
+    {
+      "Id": 416,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சர்க்கரை என்றால் தித்திக்குமா?"
+    },
+    {
+      "Id": 417,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சர்க்கரை என்று சொன்னால் தித்திக்குமா?"
+    },
+    {
+      "Id": 418,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சாகிறவரைக்குவஞ் சங்கடமானால் வாழுகிறது எக்காலம்?"
+    },
+    {
+      "Id": 419,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சாட்சிக்காரன் காலில் விழுவதிலும் சண்டைக்காரன் காலில் விழலாம்."
+    },
+    {
+      "Id": 420,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சாட்டை இல்லாப் பம்பரம் ஆட்டிவைக்க வல்லவன்."
+    },
+    {
+      "Id": 421,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சாண் ஏற முழம் சறுக்கிறது."
+    },
+    {
+      "Id": 422,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சாது மிரண்டால் காடு கொள்ளாது."
+    },
+    {
+      "Id": 423,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சித்திரமும் கைப்பழக்கம்."
+    },
+    {
+      "Id": 424,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சிறு துரும்பும் பல் குத்த உதவும்."
+    },
+    {
+      "Id": 425,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சின்ன மீனைப் போட்டுப் பெரிய மீனைப் பிடி."
+    },
+    {
+      "Id": 426,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுக துக்கம் சுழல் சக்கரம்."
+    },
+    {
+      "Id": 427,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுடர் விளக்காயினும் தூண்டுகோல் ஒன்று வேண்டும்."
+    },
+    {
+      "Id": 428,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுட்ட சட்டி அறியுமா சுவை?"
+    },
+    {
+      "Id": 429,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுடினும் செம்பொன் தன்னொலி கெடாது."
+    },
+    {
+      "Id": 430,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுட்ட மண்ணும் பச்சை மண்ணும் ஒட்டுமா?"
+    },
+    {
+      "Id": 431,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுண்டைக்காய் காற்பணம், சுமை கூலி முக்காற்பணம்."
+    },
+    {
+      "Id": 432,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுத்தம் சோறு போடும் எச்சில் இரக்க வைக்கும்."
+    },
+    {
+      "Id": 433,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுத்த வீரனுக்கு உயிர் துரும்பு."
+    },
+    {
+      "Id": 434,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சும்மா வந்த மாட்டை பல்லைப் பிடித்தப் பாராதே."
+    },
+    {
+      "Id": 435,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சும்மா இருக்கிற தம்பிரானுக்கு இரண்டு பட்டை."
+    },
+    {
+      "Id": 436,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சும்மா கிடக்கிற சங்கை ஊதிக்கெடுத்தான் ஆண்டி."
+    },
+    {
+      "Id": 437,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுயபுத்தி போனாலும் சொற்புத்தி வேண்டாமா?"
+    },
+    {
+      "Id": 438,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுவரை வைத்துதான் சித்திரம் வரையவேண்டும்."
+    },
+    {
+      "Id": 439,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சுவாமி வரங் கொடுத்தாலும் பூசாரி இடங்கொடுக்க மாட்டான்."
+    },
+    {
+      "Id": 440,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சூடு கண்ட பூனை அடுப்பங் கரையிற் சேராது."
+    },
+    {
+      "Id": 441,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "செக்களவு பொன்னிருந்தாலும் செதுக்கியுண்டால் எத்தனை நாளுக்குக் காணும்.?"
+    },
+    {
+      "Id": 442,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "செடியிலே வணங்காததா மரத்திலே வணங்கும்?"
+    },
+    {
+      "Id": 443,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "செத்தவன் உடைமை இருந்தவனுக்கு அடைக்கலம்."
+    },
+    {
+      "Id": 444,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "செய்வன திருந்தச் செய்."
+    },
+    {
+      "Id": 445,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "செருப்பின் அருமை வெயிலில் தெரியும், நெருப்பின் அருமை குளிரில் தெரியும்."
+    },
+    {
+      "Id": 446,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "செருப்புக்காகக் காலைத் தறிக்கிறதா?"
+    },
+    {
+      "Id": 447,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "செலவில்லாச் செலவு வந்தால் களவில்லாக் களவு வரும்."
+    },
+    {
+      "Id": 448,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சென்ற இடம் எல்லாம் சிறப்பே கல்வி."
+    },
+    {
+      "Id": 449,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சேராத இடத்திலே சேர்ந்தால் துன்பம் வரும்."
+    },
+    {
+      "Id": 450,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சேற்றிலே புதைந்த யானையைக் காக்கையுங் கொத்தும்."
+    },
+    {
+      "Id": 451,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சேற்றிலே செந்தாமரை போல."
+    },
+    {
+      "Id": 452,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சைகை அறியாதவன் சற்றும் அறியான்."
+    },
+    {
+      "Id": 453,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொப்பனங் கண்ட அரிசி சோற்றுக்காகுமா?"
+    },
+    {
+      "Id": 454,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொல் அம்போ வில் அம்போ?"
+    },
+    {
+      "Id": 455,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொல்லாது பிறவாது, அள்ளாது குறையாது."
+    },
+    {
+      "Id": 456,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொல்லாமற் செய்வார் நல்லோர் சொல்லியுஞ் செய்யார் கசடர்."
+    },
+    {
+      "Id": 457,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொல்லிப் போகவேணும் சுகத்திற்கு, சொல்லாமற் போகவேணும் துக்கத்திற்கு."
+    },
+    {
+      "Id": 458,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொல்லுகிறவனுக்கு வாய்ச்சொல் , செய்கிறவனுக்கு தலைச்சுமை."
+    },
+    {
+      "Id": 459,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொல்வல்லவனை வெல்லல் அரிது."
+    },
+    {
+      "Id": 460,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொறிந்து தேய்க்காத எண்ணெயும் பரிந்து இடாத சோறும் பாழ்."
+    },
+    {
+      "Id": 461,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொற்கோளாப் பிள்ளையினால் குலத்துக்கீனம்."
+    },
+    {
+      "Id": 462,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சொன்னதைச் சொல்லும் கிளிப்பிள்ளை."
+    },
+    {
+      "Id": 463,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சோம்பலே சோறு இன்மைக்குப் பிதா."
+    },
+    {
+      "Id": 464,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சோம்பேறிக்கு வாழைப்பழம் தோலோடே."
+    },
+    {
+      "Id": 465,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சோம்பித் திரியேல்."
+    },
+    {
+      "Id": 466,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "சோற்றுக்குக் கேடு பூமிக்குப் பாரம்."
+    },
+    {
+      "Id": 467,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தங்கம் தரையிலே தவிடு பானையிலே."
+    },
+    {
+      "Id": 468,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தஞ்சம் என்று வந்தவனை வஞ்சித்தல் ஆகாது."
+    },
+    {
+      "Id": 469,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தடி எடுத்தவன் தண்டல்காரனா ?"
+    },
+    {
+      "Id": 470,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தட்டிப்பேச ஆள் இல்லாவிட்டால் தம்பி சண்டப் பிரசண்டன்."
+    },
+    {
+      "Id": 471,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தணிந்த வில்லுத்தான் தைக்கும்."
+    },
+    {
+      "Id": 472,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தண்ணீரிலே விளைந்த உப்புத் தண்ணீரிலே கரைய வேண்டும்."
+    },
+    {
+      "Id": 473,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தண்ணீரையும் தாயையும் பழிக்காதே."
+    },
+    {
+      "Id": 474,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தண்ணீர் வெந்நீரானாலும் நெருப்பை அவிக்கும்."
+    },
+    {
+      "Id": 475,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தந்தை எவ்வழி புதல்வன் அவ்வழி."
+    },
+    {
+      "Id": 476,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தந்தை தாய் பேண்."
+    },
+    {
+      "Id": 477,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தம்பி உடையான் படைக்கு அஞ்சான்."
+    },
+    {
+      "Id": 478,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தருமம் தலைகாக்கும்."
+    },
+    {
+      "Id": 479,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தலை இடியும் காய்ச்சலும் தனக்கு வந்தால் தெரியும்."
+    },
+    {
+      "Id": 480,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தலை இருக்க வால் ஆடலாமா ?"
+    },
+    {
+      "Id": 481,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தலைக்கு மேல் வெள்ளம் சாண் ஓடி என்ன, முழம் ஓடி என்ன ?"
+    },
+    {
+      "Id": 482,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தலை எழுத்தை தந்திரத்தால் வெல்லலாமா?"
+    },
+    {
+      "Id": 483,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தலையாரியும் அதிகாரியும் ஒன்றானால் சம்மதித்தபடி திருடலாம்."
+    },
+    {
+      "Id": 484,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தவத்துக்கு ஒருவர் கல்விக்கு இருவர்."
+    },
+    {
+      "Id": 485,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தவளை தன் வாயாற் கெடும்."
+    },
+    {
+      "Id": 486,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தவிட்டுக்கு வந்த கை தங்கத்துக்கும் வரும்."
+    },
+    {
+      "Id": 487,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தனக்கு மிஞ்சித் தான் தருமம்"
+    },
+    {
+      "Id": 488,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தனி மரம் தோப்பாகாது."
+    },
+    {
+      "Id": 489,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தன் கையே தனக்குதவி."
+    },
+    {
+      "Id": 490,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தன் வினை தன்னைச் சுடும் ஓட்டப்பம் வீட்டைச் சுடும்."
+    },
+    {
+      "Id": 491,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தானம் கொடுத்த மாட்டைப் பல்லைப் பிடித்துப் பார்க்காதே."
+    },
+    {
+      "Id": 492,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தாயிற் சிறந்ததொரு கோவிலுமில்லை, தந்தை சொல் மிக்க மந்திரமில்லை."
+    },
+    {
+      "Id": 493,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தாயும் பிள்ளையுமானாலும், வாயும் வயிறும் வேறு."
+    },
+    {
+      "Id": 494,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தாய் எட்டடி பாய்ந்தால், குட்டி பதினாறடி பாயும்."
+    },
+    {
+      "Id": 495,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தானாடா விட்டாலும் சதையாடும்."
+    },
+    {
+      "Id": 496,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தினை விதைத்தவன் தினை அறுப்பான், வினை விதைத்தவன் வினை அறுப்பான்."
+    },
+    {
+      "Id": 497,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "துள்ளுகிற மாடு பொதி சுமக்காது."
+    },
+    {
+      "Id": 498,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தூரத்துப் பச்சை கண்ணுக்குக் குளிர்ச்சி."
+    },
+    {
+      "Id": 499,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தேடாது அழிக்கின் பாடாய் முடியும்."
+    },
+    {
+      "Id": 500,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "தொட்டில் பழக்கம் சுடுகாடு மட்டும்."
+    },
+    {
+      "Id": 501,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நகத்தாலே கிள்ளுகிறதைக் கோடாரி கொண்டு வெட்டுவதா?"
+    },
+    {
+      "Id": 502,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நடக்க அறியாதவனுக்கு நடுவீதி காத வழி."
+    },
+    {
+      "Id": 503,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நடந்தால் நாடெல்லாம் உறவு , படுத்தால் பாயும் பகை."
+    },
+    {
+      "Id": 504,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நட்டுவன் பிள்ளைக்குக் கொட்டிக் காட்ட வேண்டுமா!"
+    },
+    {
+      "Id": 505,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நண்டு கொழுத்தால் வளையில் இராது, தண்டு கொழுத்தால் தரையில் இராது."
+    },
+    {
+      "Id": 506,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நத்தையின் வயிற்றிலும் முத்துப் பிறக்கும்."
+    },
+    {
+      "Id": 507,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நமக்கு ஆகாததது நஞ்சோடு ஒக்கும்."
+    },
+    {
+      "Id": 508,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நமனுக்கு நாலு பிள்ளை கொடுத்தாலும் உற்றாருக்கு ஒரு பிள்ளை கொடுக்கமாட்டான்."
+    },
+    {
+      "Id": 509,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நமன் அறியாத உயிரும் நாரை அறியாத குளமும் உண்டோ?"
+    },
+    {
+      "Id": 510,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நயத்திலாகிறது பயத்திலாகாது."
+    },
+    {
+      "Id": 511,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நரிக்கு இடங்கொடுத்தால் கிடைக்கு இரண்டு ஆடு கேட்டும்."
+    },
+    {
+      "Id": 512,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நரிக்கு கொண்டாட்டம் நண்டுக்குத் திண்டாட்டம்."
+    },
+    {
+      "Id": 513,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நரை திரை இல்லை, நமனும் அங்கில்லை."
+    },
+    {
+      "Id": 514,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நல் இணக்கமல்லது அல்லற் படுத்தும்."
+    },
+    {
+      "Id": 515,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நல்லது செய்து நடுவழியே போனால், பொல்லாதது போகிற வழியே போகிறது."
+    },
+    {
+      "Id": 516,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நல்ல வேளையில் நாழிப்பால் கறவாதது கன்று செத்துக் கலப் பால் கறக்குமா ?"
+    },
+    {
+      "Id": 517,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நல்லவன் என்று பெயர் எடுக்க நெடுநாட் செல்லும்."
+    },
+    {
+      "Id": 518,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நல்லவன் ஒரு நாள் நடுவே நின்றால் அறாத வழக்கும் அறும்."
+    },
+    {
+      "Id": 519,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நல்லார் பொல்லாரை நடத்தையால் அறியலாம்."
+    },
+    {
+      "Id": 520,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நல்ல மாட்டிற்கு ஒரு சூடு நல்ல மனிதனுக்கு ஒரு வார்த்தை."
+    },
+    {
+      "Id": 521,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நன்மை கடைப்பிடி."
+    },
+    {
+      "Id": 522,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நா அசைய நாடு அசையும்."
+    },
+    {
+      "Id": 523,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாக்கிலே இருக்கிறது நன்மையும் தீமையும்."
+    },
+    {
+      "Id": 524,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாம் ஒன்று நினைக்க, தெய்வம் ஒன்று நினைக்கும்."
+    },
+    {
+      "Id": 525,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாயைக் கண்டால் கல்லைக் காணோம், கல்லைக் கண்டால் நாயைக் காணோம்."
+    },
+    {
+      "Id": 526,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாய் இருக்கிற இடத்தில் சண்டை உண்டு."
+    },
+    {
+      "Id": 527,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாய்க்கு வேலையில்லை, நிற்க நேரமும் இல்லை."
+    },
+    {
+      "Id": 528,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாய் விற்ற காசு குரைக்குமா?"
+    },
+    {
+      "Id": 529,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாய் வாலை நிமிர்த்த முடியாது."
+    },
+    {
+      "Id": 530,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாலாறு கூடினால் பாலாறு."
+    },
+    {
+      "Id": 531,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாள் செய்வது நல்லார் செய்யார்."
+    },
+    {
+      "Id": 532,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நாற்பது வயதுக்கு மேல் நாய்க் குணம்."
+    },
+    {
+      "Id": 533,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நான் பிடித்த முயலுக்கு மூன்றே கால்கள்."
+    },
+    {
+      "Id": 534,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நித்தம் போனால் முத்தம் சலிக்கும்."
+    },
+    {
+      "Id": 535,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நித்திய கண்டம் பூரண ஆயிசு."
+    },
+    {
+      "Id": 536,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நித்தியங் கிடைக்குமா அமாவாசைச் சோறு?"
+    },
+    {
+      "Id": 537,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நிலத்தில் எழுந்த பூண்டு நிலத்தில் மடிய வேண்டும்."
+    },
+    {
+      "Id": 538,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நிழலின் அருமை வெயிலில் தெரியும்."
+    },
+    {
+      "Id": 539,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நின்ற வரையில் நெடுஞ் சுவர், விழுந்த அன்று குட்டிச்சுவர்."
+    },
+    {
+      "Id": 540,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நிறை குடம் நீர் தளும்பாது. குறைகுடம் கூத்தாடும்."
+    },
+    {
+      "Id": 541,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நீந்த மாட்டாதவனை ஆறு கொண்டு போம்."
+    },
+    {
+      "Id": 542,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நீர் ஆழம் கண்டாலும் நெஞ்சு ஆழம் காண முடியாது."
+    },
+    {
+      "Id": 543,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நீர் உள்ள மட்டும் மீன் குஞ்சு துள்ளும்."
+    },
+    {
+      "Id": 544,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நீர் மேல் எழுத்து போல்."
+    },
+    {
+      "Id": 545,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நீலிக்குக் கண்ணீர் இமையிலே."
+    },
+    {
+      "Id": 546,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நீள நீளத் தெரியும் மெய்யும் பொய்யும்."
+    },
+    {
+      "Id": 547,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நுணலும் தன் வாயால் கெடும்."
+    },
+    {
+      "Id": 548,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நுண்ணிய கருமமும் எண்ணித் துணிக."
+    },
+    {
+      "Id": 549,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நுனிக்கொம்பில் ஏறி அடிக்கொம்பு வெட்டுவார்களா?"
+    },
+    {
+      "Id": 550,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நூலளவே ஆகுமாம் நுண்ணறிவு."
+    },
+    {
+      "Id": 551,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நூல் கற்றவனே மேலவன்."
+    },
+    {
+      "Id": 552,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நூற்றுக்கு மேல் ஊற்று, ஆயிரத்துக்கு மேல் ஆற்றுப் பெருக்கு."
+    },
+    {
+      "Id": 553,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நூற்றைக் கெடுத்தது குறுணி."
+    },
+    {
+      "Id": 554,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நெய் முந்தியோ திரி முந்தியோ."
+    },
+    {
+      "Id": 555,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நெருப்பு இல்லாமல் நீள் புகை எழும்புமா?"
+    },
+    {
+      "Id": 556,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நெருப்பில்லாமல் புகையாது."
+    },
+    {
+      "Id": 557,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நெருப்பு என்றால் வாய் வெந்து போமா?"
+    },
+    {
+      "Id": 558,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நெருப்புப் பந்திலிலே மெழுகுப் பதுமை ஆடுமோ?"
+    },
+    {
+      "Id": 559,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நெல்லுக்குப் பாய்கிற தண்ணீர் புல்லுக்கும் பாயும்."
+    },
+    {
+      "Id": 560,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நேற்று உள்ளார் இன்று இல்லை."
+    },
+    {
+      "Id": 561,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நைடதம் புலவர்க்கு ஒளடதம்."
+    },
+    {
+      "Id": 562,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நொண்டிக் குதிரைக்குச் சறுக்கினது சாக்கு."
+    },
+    {
+      "Id": 563,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நொறுங்கத் தின்றால் நூறு வயது."
+    },
+    {
+      "Id": 564,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நோயற்ற வாழ்வே குறைவற்ற செல்வம்."
+    },
+    {
+      "Id": 565,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நோய் கொண்டார் பேய் கொண்டார்."
+    },
+    {
+      "Id": 566,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "நோய்க்கு இடம் கொடேல்."
+    },
+    {
+      "Id": 567,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பகலில் பக்கம் பார்த்துப் பேசு, இரவில் அதுதானும் பேசாதே."
+    },
+    {
+      "Id": 568,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பகுத்தறியாமல் துணியாதே, படபடப்பாகச் செய்யாதே."
+    },
+    {
+      "Id": 569,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பகைவர் உறவு புகை எழு நெருப்பு."
+    },
+    {
+      "Id": 570,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பக்கச் சொல் பதினாயிரம்."
+    },
+    {
+      "Id": 571,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பசியுள்ளவன் ருசி அறியான்."
+    },
+    {
+      "Id": 572,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பசி வந்திடில் பத்தும் பறந்துபோம்."
+    },
+    {
+      "Id": 573,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பச்சை மண்ணும் சுட்டமண்ணும் ஒட்டுமா?"
+    },
+    {
+      "Id": 574,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பஞ்சும் நெருப்பும் ஒன்றாய்க் கிடக்குமோ?"
+    },
+    {
+      "Id": 575,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "படிக்கிறது திருவாய் மொழி இடிக்கிறது பெருமாள் கோயில்."
+    },
+    {
+      "Id": 576,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "படைக்கும் ஒருவன் கொடைக்கும் ஒருவன்."
+    },
+    {
+      "Id": 577,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "படையிருந்தால் அரணில்லை."
+    },
+    {
+      "Id": 578,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "படை முகத்திலும் அறிமுகம் வேண்டும்."
+    },
+    {
+      "Id": 579,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பட்ட காலிலே படும் கெட்ட குடியே கெடும்."
+    },
+    {
+      "Id": 580,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பட்டா உன்பேரில் சாகுபடி என்பேரில்."
+    },
+    {
+      "Id": 581,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பட்டுக்கோட்டைக்கு வழி கேட்டால், கொட்டைப் பாக்கு விலை சொல்லுகின்றாய்."
+    },
+    {
+      "Id": 582,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பட்டும் பட்டாடையும் பெட்டியிலிருக்கும், காற்காசு கந்தையில் ஓடி உலாவும்."
+    },
+    {
+      "Id": 583,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பணக்காரன் பின்னும் பத்துப்பேர், பைத்தியக்காரன் பின்னும் பத்துப்பேர்."
+    },
+    {
+      "Id": 584,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பணத்தைப் பார்க்கிறதா பழைமையைப் பார்க்கிறதா?"
+    },
+    {
+      "Id": 585,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பணம் பத்தும் செய்யும்."
+    },
+    {
+      "Id": 586,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பணம் உண்டானால் மணம் உண்டு."
+    },
+    {
+      "Id": 587,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பணம் பந்தியிலே, குணம் குப்பையிலே."
+    },
+    {
+      "Id": 588,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பண்ணப் பண்ணப் பலவிதம் ஆகும்."
+    },
+    {
+      "Id": 589,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பண்ணிய பயிரிலே புண்ணியம் தெரியும்."
+    },
+    {
+      "Id": 590,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பதறாத காரியம் சிதறாது."
+    },
+    {
+      "Id": 591,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பந்திக்கில்லாத வாழைக்காய் பந்தலிலே கட்டித் தொங்குகிறது."
+    },
+    {
+      "Id": 592,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பந்திக்கு முந்து படைக்குப் பிந்து."
+    },
+    {
+      "Id": 593,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பத்துப்பேருக்குப் பல்குச்சி ஒருவனுக்குத் தலைச்சுமை."
+    },
+    {
+      "Id": 594,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பரணியிலே பிறந்தால் தரணி ஆளலாம்."
+    },
+    {
+      "Id": 595,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பருத்திக்கு உழும் முன்னே தம்பிக்கு எட்டு முழம்."
+    },
+    {
+      "Id": 596,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பருவத்தே பயிர் செய்."
+    },
+    {
+      "Id": 597,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பல துளி பெருவெள்ளம்."
+    },
+    {
+      "Id": 598,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பலநாளைத் திருடன் ஒரு நாளைக்கு அகப்படுவான்."
+    },
+    {
+      "Id": 599,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பல மரம் கண்ட தச்சன் ஒரு மரமும் வெட்டமாட்டான்."
+    },
+    {
+      "Id": 600,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பல்லக்கு ஏய யோகம் உண்டு, உன்னி ஏறச் சீவன் இல்லை."
+    },
+    {
+      "Id": 601,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பல்லார் முனியப் பயனில சொல்லுவான் எல்லாரும் எள்ளப்படும்."
+    },
+    {
+      "Id": 602,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பல்லுப் போனால் சொல்லுப் பேச்சு."
+    },
+    {
+      "Id": 603,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பழகப் பழகப் பாலும் புளிக்கும்."
+    },
+    {
+      "Id": 604,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பழி ஒரு பக்கம், பாவம் ஒரு பக்கம்."
+    },
+    {
+      "Id": 605,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பழுத்த ஓலையைப் பார்த்துக் குருத்தோலை சிரிக்கிறதாம்."
+    },
+    {
+      "Id": 606,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பழுத்த பழம் கொம்பிலே நிற்குமா?"
+    },
+    {
+      "Id": 607,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பள்ளிக் கணக்குப் புள்ளிக்கு உதவாது."
+    },
+    {
+      "Id": 608,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பனங்காட்டு நரி சலசலப்புக்கு அஞ்சுமா?"
+    },
+    {
+      "Id": 609,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பனி பெய்தால் மழை இல்லை, பழம் இருந்தால் பூ இல்லை."
+    },
+    {
+      "Id": 610,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பனை நிழலும் நிழலோ, பகைவர் உறவும் உறவோ?"
+    },
+    {
+      "Id": 611,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பனை மரத்தின் கீழே பாலைக் குடித்தாலும் கள் என்று நினைப்பர்."
+    },
+    {
+      "Id": 612,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பன்றிக்குப் பின் போகிற கன்றும் கெடும்."
+    },
+    {
+      "Id": 613,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பன்றி பல குட்டி, சிங்கம் ஒரு குட்டி."
+    },
+    {
+      "Id": 614,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பாம்பின் கால் பாம்பு அறியும்."
+    },
+    {
+      "Id": 615,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பாம்புக்குப் பால் வார்த்தாலும் நஞ்சைத்தான் கக்கும்."
+    },
+    {
+      "Id": 616,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பார்த்தால் பூனை பாய்ந்தால் புலி."
+    },
+    {
+      "Id": 617,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பாலுக்கும் காவல், பூனைக்கும் தோழன்."
+    },
+    {
+      "Id": 618,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பிள்ளையையும் கிள்ளிவிட்டு தொட்டிலையும் ஆட்டாதே."
+    },
+    {
+      "Id": 619,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "புத்திகெட்ட இராசாவுக்கு மதிகெட்ட மந்திரி."
+    },
+    {
+      "Id": 620,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "புத்திமான் பலவான்."
+    },
+    {
+      "Id": 621,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "புலிக்குப் பிறந்தது பூனையாய்ப் போகுமா?"
+    },
+    {
+      "Id": 622,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "புயலுக்குப் பின்னே அமைதி."
+    },
+    {
+      "Id": 623,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "புலி பதுங்குவது பாய்ச்சலுக்கு அடையாளம்."
+    },
+    {
+      "Id": 624,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பூ மலர்ந்து கெட்டது, வாய் விரிந்து கெட்டது."
+    },
+    {
+      "Id": 625,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பூமியைப்போலப் பொறுமை வேண்டும்."
+    },
+    {
+      "Id": 626,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பூ விற்ற காசு மணக்குமா?"
+    },
+    {
+      "Id": 627,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பூனைக்குக் கொண்டாட்டம், எலிக்குத் திண்டாட்டம்."
+    },
+    {
+      "Id": 628,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பூவோடு சேர்ந்த நாரும் மணம் பெறும்."
+    },
+    {
+      "Id": 629,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெண் என்றால் பேயும் இரங்கும்."
+    },
+    {
+      "Id": 630,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெண்டு வாய்க்கும் புண்ணியவானுக்கு, பண்டம் வாய்க்கும் பாக்கியவானுக்கு."
+    },
+    {
+      "Id": 631,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெண்ணின் கோணல் பொன்னிலே நிமிரும்."
+    },
+    {
+      "Id": 632,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெண்ணென்று பிறந்த போது புருடன் பிறந்திருப்பான்."
+    },
+    {
+      "Id": 633,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெண் வளர்த்தி பீர்க்கங் கொடி."
+    },
+    {
+      "Id": 634,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெருமாள் இருக்கிற வரையில் திருநாள் வரும்."
+    },
+    {
+      "Id": 635,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெருமையும் சிறுமையும் வாயால் வரும்."
+    },
+    {
+      "Id": 636,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பெற்ற மனம் பித்து, பிள்ளை மனம் கல்லு."
+    },
+    {
+      "Id": 637,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பேசப் பேச மாசு அறும்."
+    },
+    {
+      "Id": 638,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பேசாதிருந்தால் பிழையொன்றுமில்லை."
+    },
+    {
+      "Id": 639,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பேராசை பெருநட்டம்."
+    },
+    {
+      "Id": 640,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பேர் இல்லாச் சந்நிதி பாழ், பிள்ளை இல்லாச் செல்வம் பாழ்"
+    },
+    {
+      "Id": 641,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொங்கும் காலம் புளி , மங்குங் காலம் மாங்காய்."
+    },
+    {
+      "Id": 642,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொய் சொல்லி வாழ்ந்தவனுமில்லை , மெய் சொல்லிக் கெட்டவனுமில்லை."
+    },
+    {
+      "Id": 643,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொய் சொன்ன வாய்க்குப் போசனங் கிடையாது."
+    },
+    {
+      "Id": 644,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொறுத்தார் பூமி ஆள்வார் பொங்கினார் காடாள்வார்."
+    },
+    {
+      "Id": 645,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொறி வென்றவனே அறிவின் குருவாம்."
+    },
+    {
+      "Id": 646,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொறுமை கடலினும் பெரிது."
+    },
+    {
+      "Id": 647,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொறுத்தார் பூமி ஆள்வார்."
+    },
+    {
+      "Id": 648,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொற்கலம் ஒலிக்காது, வெண்கலம் ஒலிக்கும்."
+    },
+    {
+      "Id": 649,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "பொன் ஆபரணத்தைப் பார்க்கிலும் புகழ் ஆபரணமே பெரிது."
+    },
+    {
+      "Id": 650,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "போதும் என்ற மனமே பொன் செய்யும் மருந்து."
+    },
+    {
+      "Id": 651,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "போரோடு தின்கிற மாட்டுக்குப் பிடுங்கி போட்டுக் கட்டுமா?"
+    },
+    {
+      "Id": 652,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "போனதை நினைக்கிறவன் புத்தி கெட்டவன்."
+    },
+    {
+      "Id": 653,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மடியிலே கனமிருந்தால்தான் வழியிலே பயம்."
+    },
+    {
+      "Id": 654,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மட்டான போசனம் மனதிற்கு மகிழ்ச்சி."
+    },
+    {
+      "Id": 655,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மண் குதிரையை நம்பி ஆற்றில் இறங்கலாமா?"
+    },
+    {
+      "Id": 656,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மண்டையுள்ள வரை சளி போகாது."
+    },
+    {
+      "Id": 657,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மதியார் வாசலை மிதியாதிருப்பதே உத்தமம்."
+    },
+    {
+      "Id": 658,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மத்தளத்திற்கு இரு புறமும் இடி."
+    },
+    {
+      "Id": 659,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மந்திரிக்கு அழகு வரும்பொருள் உரைத்தல்."
+    },
+    {
+      "Id": 660,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மந்திரிக்கும் உண்டு மதிக்கேடு."
+    },
+    {
+      "Id": 661,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மரம் வெட்டுகிறவனுக்கு நிழலும், மண் தோண்டுகிறவனுக்கு இடமும் கொடுக்கும்."
+    },
+    {
+      "Id": 662,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மரம் வைத்தவன் த்ண்ணீர் வார்ப்பான்."
+    },
+    {
+      "Id": 663,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மருண்டவன் கண்ணுக்கு இருண்டதெல்லாம் பேய்."
+    },
+    {
+      "Id": 664,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மருந்தும் விருந்தும் மூன்று வேளை."
+    },
+    {
+      "Id": 665,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மருந்தே ஆயினும் விருந்தோடு உண்."
+    },
+    {
+      "Id": 666,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மலிந்த சரக்கு கடைத் தெருவுக்கு வரும்."
+    },
+    {
+      "Id": 667,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மலையைத் துளைக்கச் சிற்றுளி போதாதா?"
+    },
+    {
+      "Id": 668,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மல்லாந்து உமிழ்ந்தால் மார்மேல் விழும்."
+    },
+    {
+      "Id": 669,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மவுனம் கலக நாசம்."
+    },
+    {
+      "Id": 670,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மழைமுகம் காணாத பயிரும் தாய்முகம் காணாத பிள்ளையும்."
+    },
+    {
+      "Id": 671,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மழை விட்டாலும் தூவானம் விடவில்லை."
+    },
+    {
+      "Id": 672,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மனதிலிருக்கும் இரகசியம் மதி கேடனுக்கு வாக்கிலே."
+    },
+    {
+      "Id": 673,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மனமுரண்டிற்கு மருந்தில்லை."
+    },
+    {
+      "Id": 674,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மனம் உண்டானால் மார்க்கம் உண்டு."
+    },
+    {
+      "Id": 675,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மனம் உண்டானால் வழி உண்டு."
+    },
+    {
+      "Id": 676,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மனம் தடுமாறினால் மாற்றானுக்கு வலிமை."
+    },
+    {
+      "Id": 677,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மனம் போல வாழ்வு."
+    },
+    {
+      "Id": 678,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மன்னன் எப்படியோ, மன்னுயிர் அப்படி."
+    },
+    {
+      "Id": 679,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மண்னுயிரைத் தன்னுயிர்போல் நினை."
+    },
+    {
+      "Id": 680,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாடம் இடிந்தால் கூடம்."
+    },
+    {
+      "Id": 681,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாடு கிழமானாலும் பாலின் சுவை போகுமா?"
+    },
+    {
+      "Id": 682,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாடு கெட்டால் தேடலாம், மனிதர் கெட்டால் தேடலாமா?"
+    },
+    {
+      "Id": 683,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாடு மேய்க்காமற் கெட்டது, பயிர் பார்க்காமற் கெட்டது."
+    },
+    {
+      "Id": 684,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாதா ஊட்டாத சோறு, மாங்காய் ஊட்டும்."
+    },
+    {
+      "Id": 685,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மா பழுத்தால் கிளிக்காம், வேம்பு பழுத்தால் காக்கைக்காம்."
+    },
+    {
+      "Id": 686,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாமியாரும் ஒரு வீட்டு மாட்டுப் பெண்தான்."
+    },
+    {
+      "Id": 687,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாமியார் உடைத்தால் மண் குடம், மருமகள் உடைத்தால் பொன்குடம்."
+    },
+    {
+      "Id": 688,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாமியார் மெச்சின மருமகளில்லை, மருமகள் மெச்சின மாமியாரில்லை."
+    },
+    {
+      "Id": 689,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாரடித்த கூலி மடி மேலே."
+    },
+    {
+      "Id": 690,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாரிக்காலத்தில் பதின்கல மோரும் கோடைக்காலத்தில் ஒருபடி நீருஞ் சரி."
+    },
+    {
+      "Id": 691,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாரி யல்லது காரியம் இல்லை."
+    },
+    {
+      "Id": 692,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாவுக்குத் தக்க பணியாரம்."
+    },
+    {
+      "Id": 693,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மாற்றானுக்கு இடங் கொடேல்."
+    },
+    {
+      "Id": 694,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மானம் பெரிதோ? உயிர் பெரிதோ?"
+    },
+    {
+      "Id": 695,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மானைக் காட்டி மானைப் பிடிப்பார்."
+    },
+    {
+      "Id": 696,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மிஞ்சியது கொண்டு மேற்கே போகுதல் ஆகாது."
+    },
+    {
+      "Id": 697,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மின்னுவது எல்லாம் பொன்னல்ல."
+    },
+    {
+      "Id": 698,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மிதித்தாரை கடியாத பாம்பு உண்டோ?"
+    },
+    {
+      "Id": 699,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மின்னுக் கெல்லாம் பின்னுக்கு மழை."
+    },
+    {
+      "Id": 700,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மீகாமன் இல்லா மரக்கலம் ஓடாது."
+    },
+    {
+      "Id": 701,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மீதூண் விரும்பேல்."
+    },
+    {
+      "Id": 702,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முகத்துக்கு முகம் கண்ணாடி"
+    },
+    {
+      "Id": 703,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முக்காலும் காகம் முழுகிக் குளித்தாலும் கொக்காகுமா?"
+    },
+    {
+      "Id": 704,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முட்டையிடுகிற கோழிக்கு வருத்தம் தெரியும்."
+    },
+    {
+      "Id": 705,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முடவன் கொம்புத் தேனுக்கு ஆசைப் படலாமா?"
+    },
+    {
+      "Id": 706,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முதலையும் மூர்க்கனும் கொண்டது விடா"
+    },
+    {
+      "Id": 707,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முதல் கோணல் முற்றுங் கோணல்"
+    },
+    {
+      "Id": 708,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முத்தால் நத்தைப் பெருமைப்படும் , மூடர் எத்தாலும் பெருமை படார்."
+    },
+    {
+      "Id": 709,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முப்பது வருடம் வாழ்ந்தவனும் இல்லை, முப்பது வருடம் தாழ்ந்தவனும் இல்லை."
+    },
+    {
+      "Id": 710,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முருங்கை பருத்தால் தூணாகுமா?"
+    },
+    {
+      "Id": 711,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முள்ளுமேல் சீலைபோட்டால் மெள்ள மெள்ள வாங்கவேண்டும்."
+    },
+    {
+      "Id": 712,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முள்ளை முள்ளால் எடு."
+    },
+    {
+      "Id": 713,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முற்பகல் செய்யின் பிற்பகல் விளையும்."
+    },
+    {
+      "Id": 714,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முற்றும் நனைந்தவர்களுக்கு ஈரம் ஏது?"
+    },
+    {
+      "Id": 715,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முன் ஏர் போன வழிப் பின் ஏர்."
+    },
+    {
+      "Id": 716,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முன்கை நீண்டால் முழங்கை நீளும்."
+    },
+    {
+      "Id": 717,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முன் வைத்த காலைப் பின் வைக்கலாமா?"
+    },
+    {
+      "Id": 718,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "முன்னவனே முன் நின்றால் முடியாத பொருள் உளதோ?"
+    },
+    {
+      "Id": 719,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மூத்தோர் சொல் வார்த்தை அமுதம்."
+    },
+    {
+      "Id": 720,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மெய்ச்சொல்லிக் கெட்டவனுமில்லை பொய்சொல்லி வாழ்ந்தவனுமில்லை."
+    },
+    {
+      "Id": 721,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மெல்லப் பாயும் தண்ணீர் கல்லையும் குழியாக்கும்."
+    },
+    {
+      "Id": 722,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மேருவைச் சார்ந்த காகமும் பொன்னிறம்."
+    },
+    {
+      "Id": 723,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மேற்கே மழை பெய்தால் கிழக்கே வெள்ளம் வரும்."
+    },
+    {
+      "Id": 724,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மொட்டைத் தலைக்கும் முழங்காலுக்கும் முடிச்சுப் போடாதே."
+    },
+    {
+      "Id": 725,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மொழி தப்பினவன் வழி தப்பினவன்."
+    },
+    {
+      "Id": 726,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மோகம் முப்பது நாள், ஆசை அறுபது நாள்."
+    },
+    {
+      "Id": 727,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "மெளனம் மலையைச் சாதிக்கும்."
+    },
+    {
+      "Id": 728,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "யானை இருந்தாலும் ஆயிரம் பொன், இறந்தாலும் ஆயிரம் பொன்."
+    },
+    {
+      "Id": 729,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "யானைக்கும் அடி சறுக்கும்."
+    },
+    {
+      "Id": 730,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "யானைகொரு காலம் வந்தால், பூனைக்கொரு காலம் வரும்."
+    },
+    {
+      "Id": 731,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "யானை வரும் பின்னே மணி ஓசை வரும் முன்னே."
+    },
+    {
+      "Id": 732,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வஞ்சகம் வாழ்வைக் கெடுக்கும்."
+    },
+    {
+      "Id": 733,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வடக்குப் பார்த்த மச்சு வீட்டைப் பார்க்கிலும் தெற்குப் பார்த்த குச்சு வீடு நல்லது."
+    },
+    {
+      "Id": 734,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வடக்கே கருத்தால் மழை வரும்."
+    },
+    {
+      "Id": 735,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வட்டி ஆசை முதலுக்கு கேடு."
+    },
+    {
+      "Id": 736,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வணங்கின முள் பிழைக்கும்."
+    },
+    {
+      "Id": 737,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வரவு எட்டணா செலவு பத்தணா."
+    },
+    {
+      "Id": 738,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வரவுக்குத் தக்கபடி செலவை வரையறு."
+    },
+    {
+      "Id": 739,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வருந்தினால் வாராதது இல்லை."
+    },
+    {
+      "Id": 740,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வருமுன் காப்பதறிவு."
+    },
+    {
+      "Id": 741,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வல்லவனுக்கு புல்லும் ஆயுதம்."
+    },
+    {
+      "Id": 742,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வல்லவனுக்கு வல்லவன் வையகத்தில் உண்டு."
+    },
+    {
+      "Id": 743,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வளவனாயினும் அளவறிந் தளித்துண்."
+    },
+    {
+      "Id": 744,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வழவழத்த உறவைப் பார்க்கிலும் வைரம் பற்றிய பகை நன்று."
+    },
+    {
+      "Id": 745,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வாங்கிறதைப் போலிருக்க வேண்டும் கொடுக்கிறதும்."
+    },
+    {
+      "Id": 746,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வாயுள்ள பிள்ளை பிழைக்கும்."
+    },
+    {
+      "Id": 747,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வாய் சர்க்கரை கை கருணைக் கிழங்கு."
+    },
+    {
+      "Id": 748,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வாய் மதத்தால் வாழ்வு இழக்கும்."
+    },
+    {
+      "Id": 749,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வாழ்கிறதும் கெடுகிறதும் வாயினால்தான்."
+    },
+    {
+      "Id": 750,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வாழ்வும் தாழ்வும் சில காலம்."
+    },
+    {
+      "Id": 751,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வாழு, வாழ விடு."
+    },
+    {
+      "Id": 752,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "விண் பொய்த்தால் மண் பொய்க்கும்."
+    },
+    {
+      "Id": 753,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "விதி எப்படியோ மதி அப்படி."
+    },
+    {
+      "Id": 754,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வியாதிக்கு மருந்துண்டு, விதிக்கு மருந்துண்டா?"
+    },
+    {
+      "Id": 755,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "விருப்பத்தினால் ஆகாதது வீம்பினால் ஆகுமா?"
+    },
+    {
+      "Id": 756,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "விரை ஒன்று போடச் சுரை ஒன்று முளைக்குமா?"
+    },
+    {
+      "Id": 757,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வில்வப்பழம் தின்பார் பித்தம் போக பனம் பழம் தின்பார் பசி போக."
+    },
+    {
+      "Id": 758,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "விளக்கு மாற்றுக்குப் பட்டுக் குஞ்சமா?"
+    },
+    {
+      "Id": 759,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "விளையாட்டாய் இருந்தது வினையாய் முடிந்தது."
+    },
+    {
+      "Id": 760,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "விளையும் பயிர் முளையிலே தெரியும்."
+    },
+    {
+      "Id": 761,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வினை விதைத்தவன் வினை அறுப்பான், தினை வினைத்தவன் தினை அறுப்பான்."
+    },
+    {
+      "Id": 762,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வீட்டில் எலி வெளியில் புலி."
+    },
+    {
+      "Id": 763,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வெட்டு ஒன்று துண்டிரண்டு."
+    },
+    {
+      "Id": 764,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வெறுங்கை முழம் போடுமா?"
+    },
+    {
+      "Id": 765,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வெளுத்ததெல்லாம் பாலல்ல."
+    },
+    {
+      "Id": 766,
+      "Url": "http://tamilcube.com/res/tamil-proverbs.aspx",
+      "Proverb": "வெள்ளம் வரும் முன் அணைகோல வேண்டும்."
+    }
+  ]
+}
